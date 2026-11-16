@@ -3,6 +3,10 @@ A robotic hand made of cardboard that mirrors my hand in real time, using a webc
 
 
 
+https://github.com/user-attachments/assets/39c820ec-0817-47a1-b643-cf7e94299bca
+
+
+
 <img src="media/hand_front.jpg" alt="The cardboard robotic hand" width="500">
 
 ## Highlights
